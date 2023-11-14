@@ -1,0 +1,4 @@
+﻿  bit_field.cpp
+D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+C:\Users\Ольга\source\repos\bitField\x64\Debug\bitField.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

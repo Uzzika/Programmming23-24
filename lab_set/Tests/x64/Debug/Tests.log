@@ -1,0 +1,6 @@
+﻿  main_tests.cpp
+D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+main_tests.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: static class testing::UnitTest * __cdecl testing::UnitTest::GetInstance(void)" (?GetInstance@UnitTest@testing@@SAPEAV12@XZ) в функции "int __cdecl RUN_ALL_TESTS(void)" (?RUN_ALL_TESTS@@YAHXZ).
+main_tests.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __cdecl testing::UnitTest::Run(void)" (?Run@UnitTest@testing@@QEAAHXZ) в функции "int __cdecl RUN_ALL_TESTS(void)" (?RUN_ALL_TESTS@@YAHXZ).
+main_tests.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl testing::InitGoogleTest(int *,char * *)" (?InitGoogleTest@testing@@YAXPEAHPEAPEAD@Z) в функции main.
+C:\Users\Ольга\source\repos\Tests\x64\Debug\Tests.exe : fatal error LNK1120: неразрешенных внешних элементов: 3

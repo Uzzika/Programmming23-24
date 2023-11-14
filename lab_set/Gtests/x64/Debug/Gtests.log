@@ -1,0 +1,97 @@
+﻿  gtest-all.cc
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,34): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,21): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,44): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,44): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,44): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,69): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,71): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9690,71): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,64): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,66): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9695,66): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,68): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,70): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9700,70): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,72): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,74): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9705,74): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,76): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,78): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9710,78): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9715,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9715,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9715,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9715,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9715,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9715,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9716,32): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9716,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9716,34): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9722,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9722,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9722,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9722,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9722,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9722,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9723,32): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9723,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9723,34): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9729,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9729,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9729,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9729,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9729,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9729,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9730,32): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9730,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9730,34): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9736,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9736,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9736,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9736,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9736,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9736,37): error C2059: синтаксическая ошибка: <
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9737,32): error C2059: синтаксическая ошибка: )
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9737,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9737,34): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9743,27): error C3083: tr1: символ слева от "::" должен представлять тип
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9743,14): error C2955: "std::tuple": для использования класс шаблон требуется список аргументов шаблон
+D:\Visual Studio\VC\Tools\MSVC\14.37.32822\include\utility(132,7): message : см. объявление "std::tuple"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9743,37): error C2988: неопознанное объявление или определение шаблона
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9743,37): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9743,37): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\Ольга\source\repos\Gtests\gtest.h(9743,1): fatal  error C1003: число ошибок превышает 100; остановка компиляции
